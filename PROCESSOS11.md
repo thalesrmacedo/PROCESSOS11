@@ -1,4 +1,4 @@
-***Relatório de Bateria – Escolher 3 perguntas para responder
+**Relatório de Bateria – Escolher 3 perguntas para responder**
 
 1. Qual é a capacidade da bateria (em mAh)? Ex: 5000 mAh, 4000 mAh etc.
 2. Quantas horas o celular dura em uso moderado/intenso? Ex: 6h de tela ligada? 1 dia completo?
@@ -11,7 +11,7 @@
 
 ---
 
-***Relatório de Armazenamento – Escolher 3 perguntas para responder
+**Relatório de Armazenamento – Escolher 3 perguntas para responder**
 
 1. Qual é a capacidade total de armazenamento? Ex: 64 GB, 128 GB, 256 GB
 2. Quanto está sendo usado atualmente?
